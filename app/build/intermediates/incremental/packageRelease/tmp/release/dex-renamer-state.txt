@@ -1,0 +1,4 @@
+#Thu Feb 19 13:16:25 CET 2026
+base.0=C\:\\Users\\Dominus\\m2027\\rdigital\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
